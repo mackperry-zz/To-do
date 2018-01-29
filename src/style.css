@@ -1,0 +1,32 @@
+body {
+	font-family: sans-serif;
+	font-size: 12px;
+	color: black;
+}
+h1 {
+	color: black;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+h2 {
+	color: black;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+table,
+th,
+td {
+	color: black;
+	font-size: 13px;
+	font-family: sans-serif;
+	border: 1.5px solid black;
+	border-collapse: collapse;
+	margin: auto;
+}
+
+th {
+	font-weight: bold;
+	background-color: #ff0000;
+}
